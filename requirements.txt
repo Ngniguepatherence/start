@@ -1,1 +1,6 @@
 fastapi[all]
+uvicorn
+easyocr
+opencv-python
+numpy
+python-dotenv
